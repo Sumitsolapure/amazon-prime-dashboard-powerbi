@@ -38,7 +38,8 @@ Built an interactive Power BI dashboard to analyze Prime Video content based on 
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+<img width="1147" height="861" alt="Sanpshot of the Dashboard" src="https://github.com/user-attachments/assets/18324f5e-127f-4a43-aa7e-79e8589cee2e" />
+
 
 ---
 
